@@ -7,7 +7,7 @@ Este código faz parte do Projeto de Iniciação Científica (PIBIC) da Universi
 
  - [Instagram do FATA](https://www.instagram.com/fataufmt/)
  - [aframe](https://aframe.io/)
- - [Imagem do Otto](https://github.com/defaultdayanni/REALIDADE_AUMENTADA_OTTO/blob/main/otoo.png)
+ - [Imagem do Otto](https://github.com/ottoUFMT/Realidade_aumentada_otto_ufmt/blob/main/otoo.png)
  
 
 ## Autores
